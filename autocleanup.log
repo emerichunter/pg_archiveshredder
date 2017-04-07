@@ -1,0 +1,5 @@
+./archive_autocleanup.sh: line 29: PGARCHVCLNP_BIN: command not found
+pg_archivecleanup: must specify archive location
+Try "pg_archivecleanup --help" for more information.
+pg_archivecleanup: must specify archive location
+Try "pg_archivecleanup --help" for more information.
